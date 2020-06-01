@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
 
-require_relative '../lib/spotify_cli.rb'
+require_relative '../lib/rickmorty_cli.rb'
 
-pry
+Pry.start
