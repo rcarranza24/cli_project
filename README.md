@@ -22,7 +22,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+TODO: Select a character from the list to learn more information about them.
 
 ## Development
 
