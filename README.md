@@ -1,5 +1,5 @@
 # Welcome to the Rick and Morty character CLI!
-This CLI allows you to pick a charactive from the cartoon TV show "Rick and Morty" and allows you to see more information about each character.
+This CLI allows you to pick a character from the cartoon TV show "Rick and Morty" and allows you to see more information about each character.
 
 ## Installation
 
@@ -29,7 +29,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/rcarranza24/rick_morty. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/rcarranza24/rick_and_morty. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 ## License
 
