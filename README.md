@@ -19,7 +19,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Select a character from the list to learn more information about them.
+Select a character from the list to learn more information about them. If you'd like to continue to learn more about other characters, select "yes" and make a new selection from the list. Otherwise, choose "no".
 
 ## Development
 
